@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel xmlns:atom="http://www.w3.org/2005/Atom">
+    <title><![CDATA[ampasalesianoslinares.jimdofree.com Blog Feed]]></title>
+    <link>https://ampasalesianoslinares.jimdofree.com/</link>
+    <description><![CDATA[Blog - ]]></description>
+    <pubDate>Wed, 12 Jun 2019 22:51:08 +0200</pubDate>
+    <generator>Jimdo_Feed</generator>
+    <language>es-es</language>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="https://ampasalesianoslinares.jimdofree.com/rss/blog" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[comentanos tus dudas]]></title>
+      <link>https://ampasalesianoslinares.jimdofree.com/2019/06/11/prueba/</link>
+      <guid>https://ampasalesianoslinares.jimdofree.com/2019/06/11/prueba/</guid>
+      <description><![CDATA[<?xml version="1.0"?>
+<div id="cc-matrix-3227785599"><div id="cc-m-12312998699" class="j-module n j-imageSubtitle "><figure class="cc-imagewrapper cc-m-image-align-1 cc-m-width-maxed">
+<img srcset="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/scc2bd295f7fb1650/image/iaa70c79ff48416d2/version/1560293909/image.jpg 320w, https://image.jimcdn.com/app/cms/image/transf/dimension=640x10000:format=jpg/path/scc2bd295f7fb1650/image/iaa70c79ff48416d2/version/1560293909/image.jpg 640w, https://image.jimcdn.com/app/cms/image/transf/dimension=960x10000:format=jpg/path/scc2bd295f7fb1650/image/iaa70c79ff48416d2/version/1560293909/image.jpg 960w, https://image.jimcdn.com/app/cms/image/transf/dimension=1000x10000:format=jpg/path/scc2bd295f7fb1650/image/iaa70c79ff48416d2/version/1560293909/image.jpg 1000w, https://image.jimcdn.com/app/cms/image/transf/none/path/scc2bd295f7fb1650/image/iaa70c79ff48416d2/version/1560293909/image.jpg 1187w" sizes="(min-width: 1000px) 1000px, 100vw" id="cc-m-imagesubtitle-image-12312998699" src="https://image.jimcdn.com/app/cms/image/transf/dimension=1000x10000:format=jpg/path/scc2bd295f7fb1650/image/iaa70c79ff48416d2/version/1560293909/image.jpg" alt="" class="" data-src-width="1187" data-src-height="1599" data-src="https://image.jimcdn.com/app/cms/image/transf/dimension=1000x10000:format=jpg/path/scc2bd295f7fb1650/image/iaa70c79ff48416d2/version/1560293909/image.jpg" data-image-id="8076699699"/>    
+
+</figure>
+
+<div class="cc-clear"></div>
+<script id="cc-m-reg-12312998699">// 
+</script></div></div>
+]]></description>
+      <pubDate>Tue, 11 Jun 2019 12:54:02 +0200</pubDate>
+    </item>
+  </channel>
+</rss>
